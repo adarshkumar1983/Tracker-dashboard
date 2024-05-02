@@ -1,4 +1,4 @@
-/* eslint-disable jsx-a11y/img-redundant-alt */
+
 import React, { useState ,useEffect} from 'react';
 import { Navbar, Container, Nav,  } from 'react-bootstrap';
 import { useUserAuth } from "../../context/UserAuthContext";
